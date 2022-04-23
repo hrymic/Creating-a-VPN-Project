@@ -119,8 +119,6 @@ The script will ask a few questions and should look similar to this:
 Welcome to this OpenVPN road warrior installer!
 
 Which IPv4 address should be used?
-     1) 45.79.104.97
-     2) 192.168.219.228
 IPv4 address 1: 1 # server ip_address
 
 Which protocol should OpenVPN use?
